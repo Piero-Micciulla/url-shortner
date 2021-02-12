@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://Micc:Heartstone89%25@cluster0.uhtpg.mongodb.net/test?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
